@@ -35,6 +35,12 @@ It comes ready to produce a model: fasterrcnn_fpn.pth, which produces satisfacto
 
 Checking results:
 
+![Fig1](https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn/blob/main/Figure_1.png)
+
+![Fig2](https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn/blob/main/Figure_2.png)
+
+![Fig3](https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn/blob/main/Figure_3.png)
+
 python test.py
 
 References:
